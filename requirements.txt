@@ -3,3 +3,4 @@ python-dotenv
 google-api-python-client
 kafka-python
 pyspark
+faker
